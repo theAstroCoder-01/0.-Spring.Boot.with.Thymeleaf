@@ -10,6 +10,7 @@ Technologies:
 Dependencies:
 
 - Thymeleaf.
+  
 
 ![1](https://github.com/user-attachments/assets/c87ee36d-8622-41ac-9de2-163d3eb83e55)
 
