@@ -8,7 +8,6 @@ Technologies:
 - SPRING Initializr
 
 Dependencies:
-
 - Thymeleaf.
   
 
