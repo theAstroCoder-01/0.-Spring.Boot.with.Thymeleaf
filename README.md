@@ -7,6 +7,7 @@ Resources:
 - IntelliJ IDEA Community Edition 2024.1.1
 - SPRING Initializr
 - MySQL
+- Thymeleaf
 
 Dependencies:
 - Thymeleaf.
