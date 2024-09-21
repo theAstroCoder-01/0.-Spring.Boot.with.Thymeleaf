@@ -1,13 +1,12 @@
 # 0.-Spring.Boot.with.Thymeleaf
 
 Description:
-- This is my first Spring Boot project made in IntelliJ IDEA with Java, Thymeleaf, and MySQL.
+- This is my first Spring Boot project made in IntelliJ IDEA with Java and Thymeleaf.
 - The web service displays a web page on localhost:8080 with an introduction title, contact, and privacy.
 
 Resources:
 - IntelliJ IDEA Community Edition 2024.1.1
 - SPRING Initializr
-- MySQL
 - Thymeleaf
 
 Dependencies:
